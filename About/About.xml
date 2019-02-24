@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>More Map Sizes</name>
+	<author>Ilyaki</author>
+	<description>Allows you to set map sizes from 25x25 to 2000x2000</description>
+	<url>TODO</url>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+</ModMetaData>
